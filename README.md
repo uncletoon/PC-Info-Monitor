@@ -36,4 +36,5 @@ The **System Information Viewer** is designed to simplify system diagnostics by 
 
 1. Clone the repository:
    ```bash
- 
+    https://github.com/uncletoon/PC-Info-Monitor.git
+
